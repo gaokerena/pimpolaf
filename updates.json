@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "sin.amru.gao.kerena@gmail.com": {
+      "updates": [
+        {
+          "version": "3.25",
+          "update_link": "https://github.com/gaokerena/pimpolaf/releases/download/v3.25/pimpolaf-3.25.xpi"
+        }
+      ]
+    }
+  }
+}
