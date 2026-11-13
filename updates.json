@@ -49,6 +49,10 @@
         {
           "version": "3.41",
           "update_link": "https://github.com/gaokerena/pimpolaf/releases/download/v3.41/pimpolaf-3.41.xpi"
+        },
+        {
+          "version": "3.42",
+          "update_link": "https://github.com/gaokerena/pimpolaf/releases/download/v3.42/pimpolaf-3.42.xpi"
         }
       ]
     }
